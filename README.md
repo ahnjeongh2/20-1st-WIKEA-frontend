@@ -30,7 +30,7 @@
 
 ## 적용 기술
 
-- Front-End : React, React Router, Sass, JavaScript
+- Front-End : React, React Router, Sass, JavaScript, CSS3, HTML5
 - Back-End : Python, Django web framework, Bcrypt, My SQL, pyjwt
 - Common : Slack, Trello, GitHub, Git, RESTful API
 
