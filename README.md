@@ -62,7 +62,7 @@
 
 
 ## 데모 영상
-- [유튜브 영상 링크(예정)]()
+- [유튜브 영상 링크](https://www.youtube.com/watch?v=I6-gSyTRVAU)
 
 
 ## 💥 Reference
