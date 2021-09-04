@@ -10,17 +10,17 @@
 ## 프로젝트 계획 및 일정
 
 🎈 Period : 2021.05.10 ~ 2021.05.21
-- 1st Sprint : 전체 레이아웃 구현 및 컴포넌트화
-- 2nd Sprint : 컴포넌트 별 기능 구현, 프론트와 백엔드 간 API 통신, conflict 해결 등
+- **1st Sprint :** 전체 레이아웃 구현 및 컴포넌트화
+- **2nd Sprint :** 컴포넌트 별 기능 구현, 프론트와 백엔드 간 API 통신, conflict 해결 등
 
 ## 프로젝트 팀원
 
 ### Front-end 4명
 
-  - 👱🏻‍♀️ Login_Page : [안정현](https://github.com/ahnjeongh2)
-  - 👶🏻 Main_Page : [김예슬](https://github.com/yesl-kim)
-  - 👱🏻 List_Page : [김수연](https://github.com/ksy4568)
-  - 😎 Detail_Page : [노선경](https://github.com/celline1637)
+  - 👱🏻‍♀️ **Login_Page :** [안정현](https://github.com/ahnjeongh2)
+  - 👶🏻 **Main_Page :** [김예슬](https://github.com/yesl-kim)
+  - 👱🏻 **List_Page :** [김수연](https://github.com/ksy4568)
+  - 😎 **Detail_Page :** [노선경](https://github.com/celline1637)
 
 ### Back-end 2명
 
@@ -30,30 +30,30 @@
 
 ## 적용 기술
 
-- Front-End : React, React Router, Sass, JavaScript, CSS3, HTML5
-- Back-End : Python, Django web framework, Bcrypt, My SQL, pyjwt
-- Common : Slack, Trello, GitHub, Git, RESTful API
+- **Front-end :** React, React Router, Sass, JavaScript, CSS3, HTML5
+- **Back-end :** Python, Django web framework, Bcrypt, My SQL, pyjwt
+- **Common :** Slack, Trello, GitHub, Git, RESTful API
 
 ## 구현 기능
 
-### 로그인/회원가입 페이지 (안정현)
+### 🎈 로그인/회원가입 페이지 (안정현)
 
 - 로그인/회원가입 시, 입력 항목들에 대한 validation 로직(유효성 검증) 구현 
 - 사용자 인증(Authentication) 완료에 따른, Local Storage에서의 access token(JSON Web Tokens) 관리
 
-### 메인 페이지 (김예슬)
+### 🎈 메인 페이지 (김예슬)
 
 - 객체 매핑을 활용한 네비게이션 탭 기능
 - react-router를 사용한 동적 라우팅 (메인 -> 리스트 이동)
 
-### 리스트 페이지 (김수연)
+### 🎈 리스트 페이지 (김수연)
 
 - List page layout
 - Product card Component 구현
 - 제품 평점 기준으로 별점을 보여주는 간단한 데이터 시각화 함수 구현
 - 클릭 이벤트 발생 시 각 버튼에 해당하는 필터된 데이터의 API 주소를 변경해 리랜더링해주는 필터 구현
 
-### 상세 페이지 (노선경)
+### 🎈 상세 페이지 (노선경)
 
 - 상세 페이지의 반응형 레이아웃 및 제품 상세이미지 Carousel 구현
 - path parameter를 이용한 메인 및 리스트 페이지와의 동적 라우팅
