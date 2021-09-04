@@ -26,7 +26,7 @@
 
   - [정운산](https://github.com/Action2theFuture)
   - [최우석](https://github.com/tonic523)
-  - [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/20-1st-WIKEA-backend)
+  - [Back-end github 링크](https://github.com/wecode-bootcamp-korea/20-1st-WIKEA-backend)
 
 ## 적용 기술
 
