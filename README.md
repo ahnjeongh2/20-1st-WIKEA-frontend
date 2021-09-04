@@ -1,6 +1,6 @@
 # WIKEA Front-end team입니다! 👨🏻‍💻
 
-- 가구 전문 이커머스 플랫폼[이케아(IKEA)](https://www.ikea.com/kr/ko/) 를 모티브로 한 팀 프로젝트
+- 가구 전문 이커머스 플랫폼 [이케아(IKEA)](https://www.ikea.com/kr/ko/) 를 모티브로 한 팀 프로젝트
 
 ## 프로젝트 팀 소개 : 위케아(WIKEA)
 
