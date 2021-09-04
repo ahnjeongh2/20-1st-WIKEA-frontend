@@ -61,8 +61,8 @@
 - 반응형 및 스크롤 감지 공동 헤더(네브바) 구현
 
 
-## 데모 영상
-- [유튜브 영상 링크](https://www.youtube.com/watch?v=I6-gSyTRVAU)
+## 프로젝트 전체 시연 영상
+- 🎬 [유튜브 영상 링크](https://www.youtube.com/watch?v=I6-gSyTRVAU)
 
 
 ## 💥 Reference
