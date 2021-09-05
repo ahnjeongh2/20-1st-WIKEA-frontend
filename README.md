@@ -4,7 +4,7 @@
 
 ## 프로젝트 소개
 
-- 이케아는 인테리어 가구 및 소품을 판매하는 사이트로, 카테고리, 신제품, 가격, 색상 등에 따라 상품을 볼 수 있는 필터 기능을 제공
+- `이케아`는 인테리어 가구 및 소품을 판매하는 사이트로, 카테고리, 신제품, 가격, 색상 등에 따라 상품을 볼 수 있는 `필터` 기능을 제공
 
 ## 프로젝트 계획 및 일정
 
@@ -29,7 +29,7 @@
 
 ## 적용 기술
 
-- **Front-end :** React, React Router, Sass, JavaScript, CSS3, HTML5
+- **Front-end :** `React`, `React Router`, `Sass`, `JavaScript`, `CSS3`, `HTML5`
 - **Back-end :** Python, Django web framework, Bcrypt, My SQL, pyjwt
 - **Common :** Slack, Trello, GitHub, Git, RESTful API
 
